@@ -1,1 +1,4 @@
-# Etch a sketch project for The Odin Project
+# Etch a sketch 
+
+For the Odin Project
+
